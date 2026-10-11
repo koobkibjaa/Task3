@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ข้อมูลระหว่างทางของ pipeline (สร้างใหม่ได้)
+data/
+thaiwater_daily/
+
+# ไฟล์ลับ
+.env
+.aws/
